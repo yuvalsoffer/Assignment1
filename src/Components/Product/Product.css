@@ -1,0 +1,24 @@
+.productContainer {
+    background-color: grey;
+    margin-top: 10px;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    align-items: center;
+}
+.productPictureContainer {
+    border: 2px solid black;
+    background-color: lightsteelblue;
+    border-radius: 5px;
+    padding: 2px;
+}
+.productPicture {
+    width: 60px;
+    height: 60px;
+}
+.productDescription {
+    flex: 1;
+    color: aliceblue;
+}
+

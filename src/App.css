@@ -1,0 +1,18 @@
+.App {
+display: flex;
+padding-top: 3%; 
+}
+
+.products {
+  background-color: lightgrey;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.productsTitle {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
